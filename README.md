@@ -1,4 +1,4 @@
-#Second Week Challenge -- My Portfolio
+# Second Week Challenge -- My Portfolio
 UofO Bootcamp 2nd Week Challenge Exercise
 
 ## Usage
