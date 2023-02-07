@@ -1,14 +1,14 @@
 #Second Week Challenge -- My Portfolio
 UofO Bootcamp 2nd Week Challenge Exercise
 
-##Usage
+## Usage
 
 This web page is the intended superstructure for what will become my **Work Portfolio**. It contains actual and placeholder samples of my *Projects*, an *About Me* section, and *Contact Infomation*.
 
-##Mockup
+## Mockup
 ![Sceenshot of Portfolio Web page](assets/images/portfolioScreenShot.png)
 
-##Links
+## Links
 
 <a href="https://github.com/SevenRooT/02_Challenge-MyPortfolio" target="_blank">GitHub Repository</a>
 
